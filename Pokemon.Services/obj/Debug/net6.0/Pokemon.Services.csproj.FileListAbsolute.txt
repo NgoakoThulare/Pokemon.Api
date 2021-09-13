@@ -1,0 +1,16 @@
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.deps.json
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.dll
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\ref\Pokemon.Services.dll
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.pdb
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\Pokemon.Models.dll
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\bin\Debug\net6.0\Pokemon.Models.pdb
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.csproj.AssemblyReference.cache
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.AssemblyInfoInputs.cache
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.AssemblyInfo.cs
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.ImplicitNamespaceImports.cs
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.csproj.CoreCompileInputs.cache
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.csproj.CopyComplete
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.dll
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\ref\Pokemon.Services.dll
+C:\Users\CP362294\source\Repos\Pokemon.Api\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.pdb
